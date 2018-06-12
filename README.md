@@ -1,0 +1,2 @@
+# search_amazon
+通过barcode获取Amazon上面商品的信息
